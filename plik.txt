@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Hello!? 
-=======
 Hello! znowu
->>>>>>> 7bf29325f47f967be03c6cea14554a866041f476
 "Druga lina" 
+"trzecia linia" 
