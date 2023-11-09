@@ -26,3 +26,5 @@ Lista wypunktowana:
 
 [etykieta].(url) -> link
 ![etykieta](url)
+
+insert into postac values();
